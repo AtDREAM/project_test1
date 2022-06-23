@@ -1,0 +1,3 @@
+#忽略test目录下所有文件
+test/
+index.html
